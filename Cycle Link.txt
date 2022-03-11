@@ -1,0 +1,57 @@
+Cycle Automation
+
+
+Cycle user manual:
+https://my.cycleautomation.com/user-manual/introduction/
+
+https://delaplex-my.sharepoint.com/personal/nramteke_delaplex_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnramteke%5Fdelaplex%5Fcom%2FDocuments%2FAutomation%20Training%2FAutomation%2FCycle%20Automation%20Tool%20%2D%2013th%20July%202020%20%28Mentor%20%2D%20Ankita%2C%20Deepali%20%26%20Abhishek%20B%29&originalPath=aHR0cHM6Ly9kZWxhcGxleC1teS5zaGFyZXBvaW50LmNvbS86ZjovcC9ucmFtdGVrZS9FdEhsNGVCb3M3NUF1dkVuZWhOUlN1OEJGbEhSZXZTeHNfUWZNOGZXSVBBR2ZnP3J0aW1lPWJndzRPQVVhMlVn
+
+
+
+https://drive.google.com/drive/folders/1Ak2M9_yaIqfugUAeVqoAMPxjlC1fdUdq
+
+Cycle credentials
+
+Account: delaPlex
+Username: pgathe@delaplex.com 
+Password: Pgathe@123
+
+
+
+Training daily status sheet : 
+https://delaplex-my.sharepoint.com/:x:/r/personal/draval_delaplex_com/_layouts/15/Doc.aspx?sourcedoc=%7BF5EBE70C-E392-4D7B-BE9D-69445F404815%7D&file=Training%20Plan.xlsx&action=default&mobileredirect=true&cid=c7266e47-ef31-41d8-b674-839b20b325bd
+
+
+Training Assignment
+https://delaplex-my.sharepoint.com/:x:/r/personal/draval_delaplex_com/_layouts/15/Doc.aspx?sourcedoc=%7BF5EBE70C-E392-4D7B-BE9D-69445F404815%7D&file=Training%20Plan.xlsx&nav=MTBfe0JFRjlBOUYyLTc0NjktNEMzRC1CMjNBLTE0OEZBMDEyOUE3MH1fezdDRkMyNTY4LUIxOUMtNEYwMi1BMjNCLTc2NTY5MzZFN0ZFRH0&action=default&mobileredirect=true
+
+https://my.cycleautomation.com/login
+pgathe@delaplex.com
+Pgathe@123h@123
+
+
+
+KT link of Neha
+https://delaplex-my.sharepoint.com/personal/nthakre_delaplex_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnthakre%5Fdelaplex%5Fcom%2FDocuments%2FCycle%20KT%20sessions&originalPath=aHR0cHM6Ly9kZWxhcGxleC1teS5zaGFyZXBvaW50LmNvbS86ZjovcC9udGhha3JlL0VyWlJwRG15Wk9kSnJDYUFlRXFaRVE0Ql9VOTg5YzRXUnk2allyMS1aWFpkLWc%5FcnRpbWU9ZFZIMmJfc3UyVWc
+
+WMS : PAYAL.GATHE
+Pgathe@123
+
+•	Web UI URL: http://10.3.10.133:8060/
+•	Mobile UI URL: http://10.3.10.133:8070/login
+•	MOCA Service link: http://10.3.10.133:4600/service
+•	Terminal: 10.3.10.133:4650
+o	Port Number: 4650
+o	Terminal protocol: telnet
+
+
+RTCIS video link
+
+
+https://www.dropbox.com/sh/rcj9idch36acty4/AABCQP7929ci-5dw26zJtxd2a?dl=0
+https://www.dropbox.com/sh/6ytzrmeh2k88g15/AAAvmkRKaF8vdrgaOq9VHBfNa?dl=0
+https://www.dropbox.com/s/cr5snqai84bw8pr/Meeting%20in%20_RTCIS%20Overview%20Training_-20210505_220246-Meeting%20Recording.mp4?dl=0
+
+
+Username: root
+Password: 1234567
